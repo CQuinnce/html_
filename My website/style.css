@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'bold_marker';
+    src: url(Fonts/Bold_Marker.ttf);
+}
+
+Body {
+    background-color: #2f3e46;
+    color: #354f52;
+    padding: 35px;
+}
+h1 {
+    margin-top: -15px;
+    font-family: "bold_marker"
+}
+p, h2 {
+    text-indent: 23px; 
+}
+.main-text {
+    padding: 50px;
+    background-color: #52796f;  
+}
+hr {
+    height: 1%;
+    border-color: #cad2c5;
+    background-color: #cad2c5;
+    border-left: none;
+    border-top: none;
+}
